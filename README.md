@@ -12,6 +12,7 @@ object = {“x”:{“y”:{“z”:”a”}}}
 key = x/y/z
 
 value = a
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 The solution provided using python program
 Python Dictonary 
