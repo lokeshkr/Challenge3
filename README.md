@@ -18,4 +18,4 @@ value = a
 The solution provided using python program
 Python Dictonary 
 Dictionary keys & Vaules
-![image](https://user-images.githubusercontent.com/10312519/201327663-8e211320-3ce6-4a26-b464-02bd7090c6b4.png)
+
